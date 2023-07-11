@@ -3860,4 +3860,12 @@ form.request-quote-form button.button {
         margin-top: -230px;
     }
 
+    .about-image{
+        display: none;
+    }
+
+    .video-box-bottom{
+        margin-bottom: 50px;
+    }
+
 }
